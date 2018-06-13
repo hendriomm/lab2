@@ -1,0 +1,18 @@
+Workload: 1K
+
+elapsed time: 0.000009 seconds
+elapsed time: 0.009000 milliseconds
+elapsed time: 9.000000 microseconds
+
+ Workload: 1M
+
+elapsed time: 0.005247 seconds
+elapsed time: 5.247000 milliseconds
+elapsed time: 5247.000000 microseconds
+
+ Workload: 1G
+
+elapsed time: 2256.927334 seconds
+elapsed time: 2256927.334000 milliseconds
+elapsed time: 2256927334.000000 microseconds
+
